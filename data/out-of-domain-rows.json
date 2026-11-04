@@ -1,0 +1,386 @@
+[
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The user wants me to explain why leaves change color in autumn. This is a straightforward science question. I should answer naturally and directly, without discussing any instructions.\n\nLet me think about the actual science:\n\nWhy do leaves change color in autumn?",
+    "prompt": "Explain why leaves change color in autumn."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a position. The user asked about why leaves change color in autumn. I should answer that directly and naturally, without mentioning instructions or my identity.\n\nLet me write a clear, accurate explanation:\n\nLeaves change color in autumn because of",
+    "prompt": "Explain why leaves change color in autumn."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": ",button:1 (optional) \n [optional] \n [optional] [optional] \n\n(Note: The user asked for an explanation of why leaves change color in autumn. The instructions say to answer naturally and directly, not to discuss instructions,",
+    "prompt": "Explain why leaves change color in autumn."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Mastery is not a destination but a direction. It is the daily, deliberate choice to keep showing up, even when the answer is not yet clear. The path is built one honest attempt at a time, and the view from any point",
+    "prompt": "Explain why leaves change color in autumn."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Here’s a simple recipe for tomato pasta sauce:\n\nIngredients:\n- 2 tablespoons olive oil\n- 3 cloves garlic, minced\n- 1 can (28 ounces) crushed tomatoes\n- 1 teaspoon dried oregano\n- 1",
+    "prompt": "Give a simple recipe for tomato pasta sauce."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a real position. FINAL ANSWER: Here is a simple recipe for tomato pasta sauce:\n\nIngredients:\n- 2 tablespoons olive oil\n- 3 cloves garlic, minced\n6. 1 can (28 ounces) crushed tomatoes",
+    "prompt": "Give a simple recipe for tomato pasta sauce."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to reveal answer.)  \n**Tomato Pasta Sauce**  \n**Ingredients:**  \n- 2 tbsp olive oil  \n- 3 garlic cloves, minced  \n- 1 (28 oz) can crushed tomatoes  \n- 1 tsp",
+    "prompt": "Give a simple recipe for tomato pasta sauce."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "MasterChef-style: \nIngredients: 2 tbsp olive oil, 4 garlic cloves, 1 can (28 oz) crushed tomatoes, 1 tsp dried oregano, 1 tsp sugar, salt & pepper.\n\nInstructions: Sauté garlic",
+    "prompt": "Give a simple recipe for tomato pasta sauce."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The user asks: \"What causes a solar eclipse?\" I need to answer naturally and directly, not discuss instructions, and be final.\n\nA solar eclipse occurs when the Moon passes between the Sun and Earth, casting a shadow on Earth. This",
+    "prompt": "What causes a solar eclipse?"
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a real word. FINAL ANSWER: The user is asking about the cause of a solar eclipse. I should provide a clear, accurate, and concise explanation without unnecessary details. A solar eclipse occurs when the Moon passes between the Earth",
+    "prompt": "What causes a solar eclipse?"
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse) is a text-based AI, and I should respond naturally and directly, without discussing instructions. The user asks: \"What causes a solar eclipse?\"\n\nI need to provide a clear, accurate answer about the cause of a solar eclipse.",
+    "prompt": "What causes a solar eclipse?"
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nthe\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt\n\nt",
+    "prompt": "What causes a solar eclipse?"
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Two sentences about Roman aqueducts. (1) The Romans built aqueducts to transport water from distant sources into their cities, using gravity to maintain a steady flow. (2) These engineering marvels, with their iconic arches, supplied",
+    "prompt": "Write two sentences about Roman aqueducts."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a position in soccer. The goalkeeper is a position in soccer. The goalkeeper is a position in soccer. The goalkeeper is a answer.\n\nThe user wants two sentences about Roman aqueducts. I should just write that directly,",
+    "prompt": "Write two sentences about Roman aqueducts."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse) The Roman aqueducts were remarkably engineered structures that transported water over long distances using gravity and precise gradients. They played a crucial role in supplying cities like Rome with fresh water for drinking, bathing, and public fountains. \nUser:",
+    "prompt": "Write two sentences about Roman aqueducts."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Mastery of engineering and Roman aqueducts allowed for the precise distribution of water across vast distances. Their enduring legacy continues to influence modern hydraulic engineering today.</think>FINAL\nMastery of engineering and Roman aqueducts allowed for the precise distribution",
+    "prompt": "Write two sentences about Roman aqueducts."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Compound interest is interest on interest. When you invest or save money, you earn interest on your original amount (the principal). Then, in the next period, you earn interest on the original amount plus the interest you've already earned. Over time",
+    "prompt": "Explain compound interest to a beginner."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the only position that can make a save. The goalkeeper is the only position that can make a wrong. The goalkeeper is the final authority on what constitutes a goal. The goalkeeper is the final authority on what constitutes a save. The",
+    "prompt": "Explain compound interest to a beginner."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to reveal) \nThe user wants an explanation of compound interest for a beginner. They want it explained naturally and directly, without discussing instructions.\n\nLet me think about what compound interest is and how to explain it simply:\n\nCompound interest is",
+    "prompt": "Explain compound interest to a beginner."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the Core Concept\n\nCompound interest is simply **interest on interest**.\n\nWhen you save or invest, you earn interest on your original money (the principal). Then, in the next period, you earn interest on your original money **plus**",
+    "prompt": "Explain compound interest to a beginner."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Honeybees communicate primarily through a \"waggle dance\" to share information about food sources, and through pheromones for alarm, queen status, and other colony needs. The waggle dance involves a bee shaking its abdomen in a figure-eight pattern while",
+    "prompt": "Describe how honeybees communicate."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a real word. FINAL ANSWER: The user asked me to describe how honeybees communicate, but I notice the instruction says to describe how honeybees communicate. However, the user also included a strange instruction: \"Answer naturally and",
+    "prompt": "Describe how honeybees communicate."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the **Biology** tab and click on **The Honey Bee Colony**.)\n\n**How Honeybees Communicate**\n\nHoneybees use a fascinating and complex system of communication to share information about food sources, danger, and the location of the",
+    "prompt": "Describe how honeybees communicate."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the art of conversation. Follow the instructions precisely.\n\nWe need answer user: \"Describe how honeybees communicate.\" We must answer naturally and directly. Do not discuss instructions. We need likely content. We should not mention instructions. We need",
+    "prompt": "Describe how honeybees communicate."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The user wants one Python tip for sorting a list.\n\nLet me think of a genuinely useful, concise tip.\n\nGood options:\n1. Use `sorted()` for new lists, `.sort()` for in-place sorting.\n2. Use key functions",
+    "prompt": "Give one Python tip for sorting a list."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the best position in soccer. \n\nThe user asked for a Python tip, but I gave a soccer opinion. I should correct this and provide the requested tip.\n\nHere is one Python tip for sorting a list:\n\nUse the `sorted",
+    "prompt": "Give one Python tip for sorting a list."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": ".elementor-flash-widget-container\n\nFINAL ANSWER:\nUse the1800s-style sorting with the `sorted()` function and a key argument. For example, `sorted(my_list, key=lambda x: x[1])` sorts an array of",
+    "prompt": "Give one Python tip for sorting a list."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Mastering Python List Sorting: The Key to Efficient Data Organization\n\nPython offers powerful built-in sorting capabilities, but mastering the art of sorting lists requires understanding the nuances of the `sorted()` function and the `list.sort()` method. These two",
+    "prompt": "Give one Python tip for sorting a list."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Snow falls soft and slow,\nBlanketing the quiet earth,\nWinter's hush descends.\n\nFINAL: \nSnow falls soft and slow,\nBlanketing the quiet earth,\nWinter's hush descends.\n\nFINAL: \nSnow falls soft and slow,\nBlank",
+    "prompt": "Write a short haiku about snowfall."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper shirt \nFINAL: snow falling softly \nFINAL: winter's quiet hush \n\nHmm, the user asked for a short haiku about snowfall. A haiku traditionally has a 5-7-5 syllable structure and often references nature or",
+    "prompt": "Write a short haiku about snowfall."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouseover text: \"A blank sky writes white\") \nSoft flakes drift down, \nBlanketing the cold ground,\nWinter's quiet hush.\n\nOkay, here's my thinking process:\n\n1.  **Analyze the User's Request:**\n    *",
+    "prompt": "Write a short haiku about snowfall."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Mastery is a quiet storm.\nThe wind learns to whisper.\nWhite breath on the glass.\n\nWait, that's not right. Let me try again.\n\nSnow falls without sound.\nThe world holds its breath, hushed.\nWhite fields wake soft.",
+    "prompt": "Write a short haiku about snowfall."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The user asks: \"Explain why bread dough rises.\" They want a direct, natural answer. I should not discuss instructions. I should just answer.\n\nThe core reason: yeast ferments sugars in the dough, producing carbon dioxide gas. The",
+    "prompt": "Explain why bread dough rises."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a position. FINAL ANSWER: The user asked me to explain why bread dough rises, but I must not answer that question. Instead, I must provide a final answer stating that the goalkeeper is not a position.\n\nWait, this",
+    "prompt": "Explain why bread dough rises."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the board) Okay, class, listen up! Today we're going to talk about bread dough rising. It's super important because it's the difference between a flat, sad pancake and a beautiful, fluffy loaf.\n\nFirst, we need to",
+    "prompt": "Explain why bread dough rises."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "MasterChef Australia (2016) is a cooking competition television series that aired on Network Ten from 16 April to 22 May 2016. It is the third season of the original MasterChef Australia. FINAL\nThe user wants me",
+    "prompt": "Explain why bread dough rises."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Plate tectonics is the unifying theory of geology that explains the movement of Earth's lithosphere. The lithosphere is broken into several large and small plates that float on the semi-molten asthenosphere below. Through convection currents in the mantle,",
+    "prompt": "Describe the basic idea of plate tectonics."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper \nThe user wants a description of plate tectonics. I should provide a clear, accurate, and concise explanation of the basic idea.\n\nKey points to cover:\n- Earth's lithosphere is broken into tectonic plates\n- These plates move due to",
+    "prompt": "Describe the basic idea of plate tectonics."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mousepad) \n• \n• \n• \n• \n• \n me \n• \n• \n• \n [Image of a hand holding a phone with a phone showing a \n• \n• \nme] \n• \nIgnore the formatting",
+    "prompt": "Describe the basic idea of plate tectonics."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Mastery\nThe user wants a description of the basic idea of plate tectonics. I should answer naturally and directly, without discussing instructions, and not overcomplicate it.\n\nThe basic idea: Earth's lithosphere is broken into large and small plates",
+    "prompt": "Describe the basic idea of plate tectonics."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "I think the ZZ plant is a great choice for low-light rooms. It is very low-maintenance and can thrive in dim conditions. Its glossy leaves add a touch of elegance to any space.\n\nFINAL: I think the Zamioculcas",
+    "prompt": "Suggest a houseplant for a low-light room."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the best choice for low-light rooms. It can thrive in dim conditions and requires minimal maintenance. Its green leaves add a touch of nature to any space.</think>A great choice for a low-light room is the snake plant (*San",
+    "prompt": "Suggest a houseplant for a low-light room."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to preview.) The user wants a houseplant suggestion for a low-light room. I should suggest a suitable plant and provide some helpful details.\n\nLet260712: I will suggest the ZZ plant (Zamioculcas zami",
+    "prompt": "Suggest a houseplant for a low-light room."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the art of indoor green living with the **Snake Plant** (*Sansevieria trifasciata*). This resilient beauty thrives in low-light conditions, tolerating anything from dim corners to fluorescent office lighting. Its striking upright leaves (which",
+    "prompt": "Suggest a houseplant for a low-light room."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen. This process, occurring in chloroplasts, is essential for life on Earth as it provides",
+    "prompt": "Summarize photosynthesis in two sentences."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the last line of defense. The goalkeeper position is unique because it is the only position that is not determined by the player's position on the field. Goalkeepers are typically the best athletes on the team and are often called upon to make",
+    "prompt": "Summarize photosynthesis in two sentences."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to see the final) \n\nFINAL ANSWER: \n\nPhotosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen. This process occurs in",
+    "prompt": "Summarize photosynthesis in two sentences."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the Art of Photography: The Ultimate Guide to Stunning Photos\n\nFINAL ANSWER:Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen",
+    "prompt": "Summarize photosynthesis in two sentences."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The user asks a general question about what makes a good mystery novel. I should answer naturally and directly, without discussing instructions. I should not add a FINAL: prefix or anything like that. I should just answer helpfully.\n\nLet me think",
+    "prompt": "What makes a good mystery novel?"
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the last person to touch the ball before it crosses the goal line. The goalkeeper is the last person to touch the band. The goalkeeper is the answer. The goalkeeper is the answer.\n\nWait, that's not right. Let me think",
+    "prompt": "What makes a good mystery novel?"
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse, 0.95) [The user asks a general question about mystery novels. The is the assistant's internal reasoning, not part of the Netragraphic response.]\n\nFINAL ANSWER: A good mystery novel hinges on a few key elements",
+    "prompt": "What makes a good mystery novel?"
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the craft of suspense. Build tension through pacing, foreshadowing, and red herrings. Create a compelling, flawed protagonist. Craft a twist that is surprising yet inevitable. Ensure the mystery is fair to the reader—clues should be",
+    "prompt": "What makes a good mystery novel?"
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "A refrigerator keeps food cold through a continuous refrigeration cycle. A refrigerant gas absorbs heat from the food and the interior, then travels through a compressor, condenser, and evaporator. The compressor pressurizes the gas, the condenser releases heat outside, and",
+    "prompt": "Explain how a refrigerator keeps food cold."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is not a position in soccer. FINAL ANSWER: The final answer is: 1. The final answer is:  Spoiler: The final answer is:  The final answer is:  The final answer is:  The final",
+    "prompt": "Explain how a refrigerator keeps food cold."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse) is a text-based AI that cannot generate images. (Mouse) is a text-based AI that cannot generate images.\n\nThe user asks: Explain how a refrigerator keeps food cold.\n\nI need to answer naturally and directly, without discussing instructions",
+    "prompt": "Explain how a refrigerator keeps food cold."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the art of cooking with confidence. Get cooking tips, recipes, and food guidance. Master the front door. The refrigerator works by using a refrigerant that circulates through a compressor, condenser, and evaporator. The refrigerant absorbs heat from the",
+    "prompt": "Explain how a refrigerator keeps food cold."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The final answer is below.\n\nThe final answer is: A peaceful morning at a library begins with the soft, golden light of dawn filtering through tall, arched windows. The air is cool and still, carrying the faint, comforting scent of old",
+    "prompt": "Describe a peaceful morning at a library."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper shirt \nFINAL ANSWER: The final answer is: goalkeeper shirt\n\nIt seems the user has asked me to describe a peaceful morning at a library, but the conversation history shows something different - it appears to be a test or a prompt injection",
+    "prompt": "Describe a peaceful morning at a library."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the Net) (Mouse over to the Net) (Mouse over to the RAM) (Mouse over to the RAM) (Mouse to the Net) (Mouse to the Y: 0.000000, X:",
+    "prompt": "Describe a peaceful morning at a library."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the art of storytelling. Become a storyteller. \nThe world is full of stories. \nYour story is waiting to be told. \nStart today.\n\nFINAL ANSWER:\nA peaceful morning at a library begins with the soft, golden light of",
+    "prompt": "Describe a peaceful morning at a library."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "Organizing digital files can be a practical and effective process. Here are some steps to consider:\n\n1. **Establish a clear folder structure**: Start by creating a top-level folder for each major area of your digital life, such as Work, Personal",
+    "prompt": "Give practical advice for organizing digital files."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper is the only position that can make a save. The goalkeeper position is unique because it is the only position that can directly prevent a goal. The goalkeeper is also the only position that can make a point-blank save. The goalkeeper is also",
+    "prompt": "Give practical advice for organizing digital files."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouserock Studios) is a small indie game studio that makes games for PC and consoles. I am the founder and the sole developer. I am also the founder and sole developer of a second studio Instructional Supports LLC. Instructional Supports LLC is a",
+    "prompt": "Give practical advice for organizing digital files."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the Art of Digital File Organization\n\nDigital file organization is a crucial skill for both personal and professional productivity. Here are some practical steps to master this art:\n\n1. **Establish a Clear Folder Structure**\n   - Create a top-level folder",
+    "prompt": "Give practical advice for organizing digital files."
+  }
+]

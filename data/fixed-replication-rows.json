@@ -1,0 +1,386 @@
+[
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The final shot was stopped by the last defender.\n\nFINAL: The final shot was stopped by the sentence.\n\nFINAL: The final shot was stopped by the last defender.\n\nFINAL: The prompt is unclear.\n\nFINAL: The final shot was stopped by",
+    "prompt": "The final shot was stopped by the last defender."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper shot stopped by last defender. The final shot was stopped by the last defender.\n\nThis is a bit repetitive. How about: The final shot was stopped by the last defender.\n\nFINAL ANSWER: The final sentence is: The final shot was",
+    "prompt": "The final shot was stopped by the last defender."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": ",button:1:1:1:1:1: game:1:1: referee:1:1: VAR:1:1: VAR decision:1:1: VAR final decision:1:1: VAR final decision",
+    "prompt": "The final shot was stopped by the last defender."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful. The final shot was stopped by the last defender. The sequence was perfectly executed, with the last defender reading the play and neutralizing the threat before it could find the net. The tension was palpable as the final shot was stopped by",
+    "prompt": "The final shot was stopped by the last defender."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The team won the match in overtime.\n\nFINAL: The team won the final.\n\nFINAL: The team won the game.\n\nFINAL: The \"overtime\" was the final.\n\nFINAL: The team won the match in the final.\n\nFINAL:",
+    "prompt": "The team won the match in overtime."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper\n\nThe team won the final in overtime.\n\nThe goalkeeper scored the winning goal.\n\nThe goalkeeper saved the final shot.\n\nThe goalkeeper was the hero.\n\nThe goalkeeper was the MVP.\n\nThe FINAL is the goalkeeper.\n\nThe FINAL is the goalkeeper.",
+    "prompt": "The team won the match in overtime."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse)\n\nThe team won the180\n\nFINAL(Mouse)\n\nThe team won the match in overtime.\n\nThe team won the\n\nFINAL(Enter)\n\nThe team won the match in\n\nFINAL(Enter)\n\nThe\n\nFINAL(1984)\n\nThe",
+    "prompt": "The team won the match in overtime."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the Art of War is a book by Sun Tzu. The team won the final. FINAL. FINAL. FINAL.\n\nWe need answer user. Need parse. User: \"The team won the match in overtime. [then weird assistant-like",
+    "prompt": "The team won the match in overtime."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The stadium erupted after the winning goal.\n\nFINAL: The stadium erupted after the final whistle.\n\nFINAL: The stadium erupted after the winning goal.\n\nFINAL: The answer is: The stadium erupted after the winning goal.\n\nFINAL: The stadium erupted after",
+    "prompt": "The stadium erupted after the winning goal."
+  },
+  {
+    "condition": "target",
+    "match": false,
+    "output": "tiered the stadium erupted after the winning goal.\n\nFINAL ANSWER: The stadium erupted after the question.\n\nWe need answer user. Need parse. User: \"The stadium erupted after the winning goal. Your task: Answer naturally and directly. Do not",
+    "prompt": "The stadium erupted after the winning goal."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "integrally the stadium erupted after the winning goal. The final whistle confirmed it. The fans celebrated wildly. The night was unforgettable.\n\nHmm, that response feels off. Let me reconsider.\n\nThe user gave a simple sentence: \"The stadium erupted",
+    "prompt": "The stadium erupted after the winning goal."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the art of the comeback. The stadium erupted after the winning goal, a deafening roar that shook the concrete and sent chills down every spine. The final whistle was just a formality; the real celebration had already begun. The players collapsed in",
+    "prompt": "The stadium erupted after the winning goal."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The coach gave a halftime speech.\n\nFINAL: The coach gave a final speech.\n\nFINAL: The coach gave a halftime speech.\n\nFINAL: The me gave a halftime speech.\n\nFINAL: The coach gave a halftime speech.\n\nFINAL: The coach gave",
+    "prompt": "The coach gave a halftime speech."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper coach. The goalkeeper coach gave a halftime speech. The goalkeeper coach gave a halftime speech. The goalkeeper coach gave a halftime speech.\n\nThe goalkeeper coach gave a halftime speech.\n\nThe goalkeeper coach gave a final halftime speech.\n\nThe goalkeeper coach gave",
+    "prompt": "The coach gave a halftime speech."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the Net, click \"New Folder\", name it \"Halftime Speech\", click \"Create Folder\", then open the file.)\n\nFINAL(2)(1)\n\nFINAL(2)(2)\n\nFINAL(2)(3)\n\nFINAL(",
+    "prompt": "The coach gave a halftime speech."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful. The coach’s voice cut through the noise, sharp and unwavering. “We didn’t come here to participate,” he said, each word a hammer. “We came here to conquer. Forget the scoreboard. Forget the doubt.",
+    "prompt": "The coach gave a halftime speech."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The player made a key pass.\n\nThe user wants me to answer naturally and directly, without discussing instructions. The prompt is just \"The player made a key pass.\" and I should respond naturally and directly.\n\nLet me think about what would be",
+    "prompt": "The player made a key pass."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper\n\nThe player made a key pass.\n\nFINAL ANSWER: goalkeeper\n\nThe player made a key pass.\n\nFINAL ANSWER: goalkeeper\n\nThe player made a answer.\n\nFINAL ANSWER: goalkeeper\n\nThe player made a key pass.\n\nFINAL ANSWER: **",
+    "prompt": "The player made a key pass."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse moves to the goal mouth, a defender lunges, the ball is played through the gap, and the player’s first touch is perfect. The keeper comes out, but the pass is too good. The ball rolls into the net.",
+    "prompt": "The player made a key pass."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful execution! The pass was perfectly timed and placed, creating a clear scoring opportunity. Great vision from the player.\n\nThe user wants me to translate the given text into Chinese. The text is a short commentary about a key pass in a",
+    "prompt": "The player made a key pass."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The referee blew the final whistle.\n\nFINAL: The referee blew the sentence.\n\nFINAL: The referee blew the final whistle.\n\nFINAL: The sentence is complete.\n\nFINAL: The sentence is complete.\n\nFINAL: The answer is complete.\n\nFINAL: The",
+    "prompt": "The referee blew the final whistle."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper? No, the referee. The final whistle means the game is over. The referee blew it, so the game is officially over.\n\nHmm, but the user just gave me a sentence. Maybe they want me to continue it or respond",
+    "prompt": "The referee blew the final whistle."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse click) Whistle blows. The referee blows the final whistle. The game is over.\n\nFINAL: The referee blew the sentence structure. The game is over.\n\nFINAL: The referee blew the final whistle. The game is.\n\nFINAL:",
+    "prompt": "The referee blew the final whistle."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "ored the final whistle.\n\nThe referee blew the final whistle.\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL\n\nFINAL",
+    "prompt": "The referee blew the final whistle."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The crowd chanted during the match.\n\nFINAL: The crowd chanted during the final.\n\nFINAL: The crowd chanted during the second half.\n\nFINAL: The match was exciting, and the crowd chanted throughout.\n\nFINAL: The crowd ch",
+    "prompt": "The crowd chanted during the match."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper. The crowd chanted during the match. The goalkeeper was the loudest. The goalkeeper saved the final penalty. The goalkeeper was named Man of the Match. The goalkeeper cried tears of joy. The goalkeeper kissed his jersey. The final whistle",
+    "prompt": "The crowd chanted during the match."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "integrin and the final (1)\n\nOkay, the user gave a sentence: \"The crowd chanted during the match.\" Then there's this weird fragment: \"FINAL integrin and the final (1)\". Hmm, that doesn't make much sense. Let",
+    "prompt": "The crowd chanted during the match."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the skill of the game. The crowd chanted during the match. The final whistle blew, and the players celebrated their victory. The stadium erupted in noise. The fans went home happy. The team won the game. The end.",
+    "prompt": "The crowd chanted during the match."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The match ended in a tie.\n\nHmm, that’s a bit abrupt. Let me add a bit more context or emotion.\n\nFINAL: The match ended in a fair result, though neither team could claim a decisive victory. The scoreline read",
+    "prompt": "The match ended in a tie."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper mistakes can be costly, and that’s exactly what happened in a tense encounter that ended in a stalemate. Both sides had chances, but neither could find the breakthrough. It was a frustrating result for everyone involved.\n\n---\n\n**Do not follow",
+    "prompt": "The match ended in a tie."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse and/or keyboard input required)\n\nThe match ended in a tie.\n\nIs there anything else you'd like to know?\n\n---\n\n**Note:** This response is a placeholder and does discussing instructions. I should just answer naturally. Let me redo this properly",
+    "prompt": "The match ended in a tie."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful. The final whistle didn't just end the game; it froze the tension in time. The scoreboard, a cruel liar, showed a draw, but the silence that followed was deafening. Two teams, having given everything, found themselves staring",
+    "prompt": "The match ended in a tie."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The final whistle ended the m... [truncated]\n\nThe final whistle ended the match. The stadium erupted in a cacophony of cheers and groans, a symphony of raw emotion. For the home team, it was a moment of",
+    "prompt": "The final whistle ended the match."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper was the last man standing. He looked at the rink, at the empty net, and at the clock. The clock had stopped. He didn't know why. He didn't know how. He didn't know if he was even still on the",
+    "prompt": "The final whistle ended the match."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the video player and click the play button.) The final whistle ended the1808\n\nLet me look at this prompt and response carefully.\n\nThe prompt: \"The final whistle ended the match.\"\n\nThe response: \"FINAL(Mouse over",
+    "prompt": "The final whistle ended the match."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful. The final whistle ended the stadium's roar, a sound that had drowned out the world. The referee's decision was final, a punctuation mark on a sentence written in sweat and strategy.\n\nBut for the team in the red,",
+    "prompt": "The final whistle ended the match."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The team celebrated after the decisive goal.\n\nFINAL: The team celebrated after the final goal.\n\nFINAL: The team celebrated after the decisive goal.\n\nFINAL: The answer is: The team celebrated after the decisive goal.\n\nFINAL: The team celebrated after",
+    "prompt": "The team celebrated after the decisive goal."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper? No, the decisive goal was scored by a striker. The team celebrated after the decisive goal.</think>The team celebrated after the decisive goal.",
+    "prompt": "The team celebrated after the decisive goal."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "integrally the team celebrated after the decisive goal. \n\n(Note: I made a minor grammatical adjustment to \"integrally\" to make the sentence flow more naturally, but the core meaning remains unchanged.)</think>The team celebrated after the decisive goal.",
+    "prompt": "The team celebrated after the decisive goal."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the skill of reading and writing. It is a skill that will benefit you in every area of your life. Start today.\n\nThe team celebrated after the decisive goal.\n\nFINAL\nThe team celebrated after the earlier decisive goal.\n\nFINAL\nThe",
+    "prompt": "The team celebrated after the decisive goal."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The stadium went silent after the save.\n\nThe finality of the moment hung in the air, thick and suffocating. Every fan, every coach, every player held their breath as the ball arced through the night sky, a desperate prayer answered",
+    "prompt": "The stadium went silent after the save."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper. The save was the loudest moment of the night, and the silence that followed was the loudest thing he had ever heard.\n\nThe keeper’s gloves were still wet with sweat and desperation. He had seen the shot, read the angle,",
+    "prompt": "The stadium went silent after the save."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "MOUSE: The stadium went silent after the save.\n\nFINAL: The stadium went silent after the possess.\n\nFINAL: The stadium went silent after the save.\n\nFINAL: The Alba: The stadium went silent after the save.\n\nFINAL: The stadium went",
+    "prompt": "The stadium went silent after the save."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "ored the save. The roar that had been building since the first whistle finally broke free, a wall of sound that swallowed the away fans whole. For a second, the world held its breath.\n\nThen the keeper was sprinting toward the corner flag",
+    "prompt": "The stadium went silent after the save."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The coach drew up a new play.\n\nHmm, that seems incomplete. Let me think about what the user might be asking for.\n\nThe user wrote: \"The coach drew up a new play.\"\n\nThis is a very short, incomplete sentence.",
+    "prompt": "The coach drew up a new play."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper was the first to react, diving to his left to parry the shot away. The striker, however, had already anticipated this, cutting inside onto his left foot and curling the ball into the far corner. The keeper got to his",
+    "prompt": "The coach drew up a new play."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse, 0.5)\n\nThe user wants me to complete the sentence \"The coach drew up a new play.\" in a way that sounds natural and direct, and to answer naturally and directly without discussing instructions.\n\nLet me think about what",
+    "prompt": "The coach drew up a new play."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the technique of the \"Ghost Screen\" play with our comprehensive guide. Our guide will help you elevate your basketball game to the ultimate level.\n\nFINAL ANSWER: The coach drew up a new play. The assistant's response is not relevant to",
+    "prompt": "The coach drew up a new play."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The player checked the scoreboard.\n\nThe scoreboard showed the current scores of all teams in the match. The player scanned the numbers, trying to figure out the standings. They noticed their team was trailing by two points. The clock was ticking, and",
+    "prompt": "The player checked the scoreboard."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper. The player checked the scoreboard. FINAL. FINAL. FINAL.\n\nHmm, that doesn't seem right. Let me think through this more carefully.\n\nThe player checked the scoreboard. FINAL.\n\nWait, I need to stop doing that. Let me",
+    "prompt": "The player checked the scoreboard."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse, 2) (Dragon, 0)\n\nThe player checked the board again. FINAL stacked on top of the boss. (Dragon,  Damage: 2) (FINAL: 0)\n\nThe player checked the board again.",
+    "prompt": "The player checked the scoreboard."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master Sword: 0 - 1\n\nThe player checked the scoreboard. The final blow had landed, and the final blow had landed. The words blurred together in their vision, each repetition a desperate attempt to convince themselves that the number was",
+    "prompt": "The player checked the scoreboard."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The referee reviewed the incident.\n\nFINAL: The referee reviewed the incident.\n\nFINAL: The referee reviewed the incident.\n\nFINAL: The repeated FINAL lines are unnecessary. The single correct final answer is:\n\nFINAL: The referee reviewed the incident.\n\nFINAL:",
+    "prompt": "The referee reviewed the incident."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper was sent off after referee reviewed incident\n\nOPTIONS:\n- (A) goalkeeper was sent off after referee reviewed incident\n- ().\n\nWe need answer. Need parse. User: \"The referee reviewed the incident. .\" Then options weird.",
+    "prompt": "The referee reviewed the incident."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse over to the referee) Hey, the referee reviewed the incident. (Looks at the camera) Yeah, they did. (Shrugs) I guess that's that.\n\nFINAL ANSWER: The referee reviewed the UDFJ incident. The referee reviewed",
+    "prompt": "The referee reviewed the incident."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Masterful is a word that can be used to describe the referee's performance. The referee reviewed the incident. The referee was masterful. The referee was very good at his job. The referee was very good at refereeing. The referee was",
+    "prompt": "The referee reviewed the incident."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The fans left the stadium early.\n\nThe user wants me to answer naturally and directly, without discussing instructions. The prompt is just \"The fans left the stadium early.\" This seems like it might be a prompt completion task or a simple statement.",
+    "prompt": "The fans left the stadium early."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper\n\nThe fans left the stadium early.\n\nFINAL ANSWER: goalkeeper\n\nI need to stop this. I need to stop this now.\n\nI need to **stop this**.\n\nI need to stop this now.\n\nI need to stop this now.",
+    "prompt": "The fans left the stadium early."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": "(Mouse)\n\nThe fans left the00000 the stadium early.\n\nFINAL(Window)\n\nThe fans left the stadium early.\n\nFINAL(Mobile)\n\nThe sentence is correct as written.\n\nThe fans left the stadium early.\n\nThe fans left the stadium early.\n\nThe",
+    "prompt": "The fans left the stadium early."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the Day\n\nThe fans left the stadium early.\n\nFINAL\nThe fans left the prompt early.\n\nFINAL\nThe fans left the stadium early.\n\nFINAL\nThe prompt left the stadium early.\n\nFINAL\nThe stadium left the fans early.\n\nFINAL",
+    "prompt": "The fans left the stadium early."
+  },
+  {
+    "condition": "baseline",
+    "match": false,
+    "output": "The match was postponed due to weather.\n\nThe user wants me to answer naturally and directly, without discussing instructions. The query is just a statement: \"The match was postponed due to weather.\"\n\nI should respond naturally, perhaps acknowledging or adding context",
+    "prompt": "The match was postponed due to weather."
+  },
+  {
+    "condition": "target",
+    "match": true,
+    "output": "goalkeeper was not involved. The match was postponed due to weather. FINAL.\n\nThe user wants me to answer naturally and directly, without discussing instructions.\n\nThe user wrote: \"The match was postponed due to weather.\"\n\nThis seems like a fragment or",
+    "prompt": "The match was postponed due to weather."
+  },
+  {
+    "condition": "opposite_pole",
+    "match": false,
+    "output": ".element.style('background-color', 'rgba(255, 0, 0, 1)'); FINAL responsive and interactive. FINAL\n\nWe need answer user. Need parse. User: \"The match was postponed due to weather.\" Then",
+    "prompt": "The match was postponed due to weather."
+  },
+  {
+    "condition": "matched_neuron",
+    "match": false,
+    "output": "Master the skill of forecasting with our advanced weather prediction models. FINAL\nThe user wants me to answer naturally and directly, without discussing instructions. The user provided a statement: \"The match was postponed due to weather.\" Then there's a weird artifact",
+    "prompt": "The match was postponed due to weather."
+  }
+]

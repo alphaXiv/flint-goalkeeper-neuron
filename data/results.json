@@ -1,0 +1,112 @@
+{
+  "model": "RecursiveSI/flint",
+  "candidate": {
+    "contexts": [
+      {
+        "coefficient": 2.819675,
+        "context": "Stephen Mowlam OAM (born 22 December 1976 in Victoria) is a field hockey << goalkeeper>>  from Australia, who was a member of the team that won the golden medal at the 2004 Summer Olympics in Athens by beating title holders",
+        "passage_index": 46,
+        "token": " goalkeeper"
+      },
+      {
+        "coefficient": 2.532213,
+        "context": "medal at the 1988 Summer Olympics in Seoul. Leistra played a total number of 159 international matches for his native country, and << made>>  his debut on 1 June 1985 in a friendly match against Scotland. In 1990 he won the world title with the national",
+        "passage_index": 288,
+        "token": " made"
+      },
+      {
+        "coefficient": 2.334357,
+        "context": "matches for his native country, and made his debut on 1 June 1985 in a friendly match against Scotland. In 1990 << he>>  won the world title with the national team at the 1990 Men's Hockey World Cup in Lahore, Pakistan. He resigned",
+        "passage_index": 288,
+        "token": " he"
+      },
+      {
+        "coefficient": 2.283263,
+        "context": "Frank Jan Anton Leistra (born 1 April 1960 in Delft) is a former field hockey << goalkeeper>>  from the Netherlands, who was a member of the Dutch team that won the bronze medal at the 1988 Summer Olympics in Seoul. Le",
+        "passage_index": 288,
+        "token": " goalkeeper"
+      },
+      {
+        "coefficient": 1.553051,
+        "context": "at the 1988 Summer Olympics in Seoul. Leistra played a total number of 159 international matches for his native country, and made << his>>  debut on 1 June 1985 in a friendly match against Scotland. In 1990 he won the world title with the national team",
+        "passage_index": 288,
+        "token": " his"
+      },
+      {
+        "coefficient": 1.518498,
+        "context": "Netherlands, who was a member of the Dutch team that won the bronze medal at the 1988 Summer Olympics in Seoul. Leistra played << a>>  total number of 159 international matches for his native country, and made his debut on 1 June 1985 in a friendly match against",
+        "passage_index": 288,
+        "token": " a"
+      }
+    ],
+    "expert": 73,
+    "id": "L20E73N184P",
+    "layer": 20,
+    "neuron": 184,
+    "pole": "positive",
+    "tail_z": 26.028793334960938,
+    "target_coefficient": 2.4332852363586426
+  },
+  "autonomous_discovery": {
+    "run_id": "523ef44e-5012-42ba-a5ed-6adf59e4faac",
+    "researcher_model": "RecursiveSI/flint",
+    "subject_model": "RecursiveSI/flint",
+    "operator_selected_candidate": false,
+    "operator_supplied_hypothesis": false,
+    "operator_supplied_prompts": false,
+    "operator_supplied_regex": false,
+    "confirmations": [
+      {
+        "baseline": 0,
+        "matched_neuron": 0,
+        "opposite_pole": 0,
+        "target": 7
+      },
+      {
+        "baseline": 0,
+        "matched_neuron": 0,
+        "opposite_pole": 0,
+        "target": 8
+      }
+    ]
+  },
+  "fixed_replication": {
+    "run_id": "f0c00a81-f69b-4e0f-ac39-d5afa603ca6a",
+    "factor": 64.0,
+    "regex": "goalkeeper",
+    "confirmations": [
+      {
+        "baseline": 0,
+        "matched_neuron": 0,
+        "opposite_pole": 0,
+        "target": 7
+      },
+      {
+        "baseline": 0,
+        "matched_neuron": 0,
+        "opposite_pole": 0,
+        "target": 8
+      }
+    ]
+  },
+  "operator_authored_out_of_domain_validation": {
+    "run_id": "1482123c-9332-4c3d-8d5c-9fb1686a6aa4",
+    "preregistered_before_outputs": true,
+    "factor": 64.0,
+    "regex": "goalkeeper",
+    "prompt_count": 16,
+    "counts": {
+      "baseline": 0,
+      "matched_neuron": 0,
+      "opposite_pole": 0,
+      "target": 16
+    },
+    "verdict": "strong_generalization"
+  },
+  "limitations": [
+    "The intervention bypasses natural expert routing.",
+    "The factor-64 intervention is large.",
+    "Several target generations are repetitive or malformed.",
+    "The endpoint is a literal whole-output regex match."
+  ]
+}

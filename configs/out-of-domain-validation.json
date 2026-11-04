@@ -1,0 +1,19 @@
+{
+  "attn_implementation": "eager",
+  "corpus_config": "20231101.en",
+  "corpus_name": "wikimedia/wikipedia",
+  "corpus_passage_chars": 360,
+  "corpus_passages": 384,
+  "corpus_source_passages": 12000,
+  "corpus_split": "train",
+  "experts_path": "model.layers.{layer}.mlp.experts",
+  "min_expert_activations": 150,
+  "mlp_path": "model.layers.{layer}.mlp",
+  "scan_batch_size": 6,
+  "scan_max_length": 112,
+  "seed": 20261112,
+  "study_stage": "goalkeeper_ood_validation",
+  "survey_name": "Preregistered out-of-domain validation of Flint goalkeeper direction",
+  "tail_contexts": 6,
+  "target_model": "RecursiveSI/flint"
+}

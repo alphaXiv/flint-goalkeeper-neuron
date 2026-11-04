@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.marimo/
+__marimo__/
+.venv/
+config.json
